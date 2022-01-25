@@ -1,1 +1,1 @@
-# Corona-Designer
+# DigitalClock-1.0
